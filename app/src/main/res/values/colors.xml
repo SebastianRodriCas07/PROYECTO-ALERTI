@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alerti_azul">#1565C0</color>
+    <color name="alerti_azul_oscuro">#0D47A1</color>
+    <color name="alerti_naranja">#FFA000</color>
+    <color name="alerti_rojo">#D32F2F</color>
+    <color name="alerti_verde">#2E7D32</color>
+    <color name="alerti_fondo">#F5F7FA</color>
+    <color name="alerti_texto">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
